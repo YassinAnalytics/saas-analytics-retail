@@ -33,7 +33,7 @@ The MVP (Minimum Viable Product) includes a desktop version only, with future de
  ![image](https://github.com/user-attachments/assets/6b9932b0-f641-4c57-989d-c984943ab49b)
 
 
-
+The stars represent the MVP features.
 
 
 ## Roadmap (Phased Approach)
@@ -41,41 +41,42 @@ The MVP (Minimum Viable Product) includes a desktop version only, with future de
 
 Goal :  to Deliver a working desktop prototype with core dashboards that the teams can use right away as the needs is urgent.
 
-- Define key KPIs with stakeholders
-- Collect and clean the necessary data
-- Build Power BI dashboards: Global, Campaigns, Sales
-- Deploy a basic desktop version (internal use only)
-- Get initial feedback from users
-- Which and how data to connect
+- Define key KPIs with stakeholders.
+- Collect and clean the necessary data.
+- Build Power BI dashboards: Global, Campaigns, Sales.
+- Deploy a basic desktop version (internal use only).
+- Get initial feedback from users.
+- Which and how data to connect.
 
 **Phase 2 – Iteration & Mobile Version**
 
-Goal: Improve based on feedback and add mobile version
+Goal: Improve based on feedback and add mobile version.
 
-- Improve UX and visuals of dashboards and dark mode
-- Optimize performance
-- Build mobile-compatible views (responsive app)
+- Improve UX and visuals of dashboards and dark mode.
+- Optimize performance.
+- Build mobile-compatible views (responsive app).
 
 
 **Phase 3 – AI Integration & Automation**
 
-Goal: Add intelligent recommendations and automation
+Goal: Add intelligent recommendations and automation.
 
-- Develop rules or ML-based suggestions (e.g. stock alerts, product focus)
-- Integrate performance alerts (low stock)
+- Develop rules or ML-based suggestions (e.g. stock alerts, product focus).
+- Integrate performance alerts (low stock).
 
 **Phase 4 – SaaS Productization (Optional – future vision)**
 
-Goal: Turn the internal tool into a scalable SaaS offer
+Goal: Turn the internal tool into a scalable SaaS offer.
 
-- Design multi-tenant infrastructure
-- Add user authentication, roles & permissions
-- Create onboarding flows and dashboard templates
-- Automate export and reporting
-- Enable real-time or scheduled refresh
-- Launch a paid version or offer it as a service
+- Design multi-tenant infrastructure.
+- Add user authentication, roles & permissions.
+- Create onboarding flows and dashboard templates.
+- Automate export and reporting.
+- Enable real-time or scheduled refresh.
+- Launch a paid version or offer it as a service.
 
 With the go-live of the MVP, the analysis time is expected to be reduced by 35%, then once the AI tools released, it’s expected to be reduced by 50%. And a 100% rate adoption by the employees.
+
 The roadmap is structured in 4 phases, from MVP definition to SaaS productization. It includes desktop, mobile and AI developments:
 
 ![image](https://github.com/user-attachments/assets/8bba2441-bb60-45fd-a3d2-97df670ab169)
@@ -109,7 +110,7 @@ This page is focused on the campaigns, where it’s easy to see the global perfo
 
  ![image](https://github.com/user-attachments/assets/eaeb5d95-3513-4ec7-8890-c09f531e146e)
 
-This part is about the products and is meant for the product overview for the logistics and supply chains team. From it they can monitor all the deliveries, stock filling by product, while getting updated information from the shops and warehouse thanks for the stock management system of the company
+This part is about the products and is meant for the product overview for the logistics and supply chains team. From it they can monitor all the deliveries, stock filling by product, while getting updated information from the shops and warehouse thanks for the stock management system of the company.
 
  ![image](https://github.com/user-attachments/assets/a57999a2-1ec6-44af-b8d1-a7cd344f4b30)
 
@@ -126,6 +127,6 @@ The dark mode version has exactly the same features as the light version.
 ![image](https://github.com/user-attachments/assets/e2a2f6b7-1da9-4fbc-88bb-aa5739171768)
 
 
-The mobile/responsive version will arrive at a later stage as following the company request, it will be used for quick check of data, but most of the monitoring will be done on the desktop version. Nonetheless, the app contains the exact same features and view as the desktop version. The app would also contain a dark mode version
+The mobile/responsive version will arrive at a later stage as following the company request, it will be used for quick check of data, but most of the monitoring will be done on the desktop version. Nonetheless, the app contains the exact same features and view as the desktop version. The app would also contain a dark mode version.
 
 
