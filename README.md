@@ -8,21 +8,21 @@ I was contacted by a the CMO of a company that runs both an e-commerce website a
 
 
 I designed a SaaS solution concept with a series of dashboards tailored to their needs, including:
-- A Global Dashboard: with key business metrics such as total sales average basket, conversion rate, active customers, sales evolution, location sales
-- A Campaign Dashboard: showing campaign performance over time, comparisons between campaigns, active customers, conversion rate, and an overview of all the previous campaigns of the year
-- A Sales Dashboard: focusing on sales trends by product, which product, how many issues reported, number of returns, the stock states
-- A customization part, with a dark mode, colored AI proposed for the reporting, and possibility to apply all AI recommendations at once
-- An export section, where can be chosen how the export shall be done (PDF, email), which section include and possibility to write a message
+- A Global Dashboard: with key business metrics such as total sales average basket, conversion rate, active customers, sales evolution, location sales.
+- A Campaign Dashboard: showing campaign performance over time, comparisons between campaigns, active customers, conversion rate, and an overview of all the previous campaigns of the year.
+- A Sales Dashboard: focusing on sales trends by product, which product, how many issues reported, number of returns, the stock states.
+- A customization part, with a dark mode, colored AI proposed for the reporting, and possibility to apply all AI recommendations at once.
+- An export section, where can be chosen how the export shall be done (PDF, email), which section include and possibility to write a message.
 
 
 The MVP (Minimum Viable Product) includes a desktop version only, with future developments planned:
-- A mobile-friendly version
-- A PDF export feature with customizable comments
+- A mobile-friendly version.
+- A PDF export feature with customizable comments.
 - AI-powered insights to suggest:
- - Smart restocking decisions
- - Alerts on underperforming products
- - Personalized recommendations for future campaigns
- - A customization part
+ - Smart restocking decisions.
+ - Alerts on underperforming products.
+ - Personalized recommendations for future campaigns.
+ - A customization part.
 
 
 
