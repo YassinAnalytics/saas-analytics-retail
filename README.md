@@ -15,9 +15,9 @@ Although the company was already using Power BI, only 12% of employees were acti
 The CMO and leadership team needed a solution that would provide clear, real-time insights across both e-commerce and physical sales, while being accessible to non-technical users.
 **Objectives**
 
-- Reduce data analysis time by 50%
-- Make key insights accessible without technical skills
-- Unify the reporting across online and offline channels
+- Reduce data analysis time by 50%.
+- Make key insights accessible without technical skills.
+- Unify the reporting across online and offline channels.
 
 
 ## Solution
