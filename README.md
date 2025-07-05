@@ -4,9 +4,26 @@ Custom analytics dashboard for omnichannel retailers (Power BI alternative).
 
 
 ## Context
-I was contacted by a the CMO of a company that runs both an e-commerce website and physical retail stores. They were already using Power BI but only in a limited way and most employees don’t have the time or knowledge to use It effectively. The leadership team needs better visibility, insights, understand and leverage their data.
+Client: Mid-sized retail group – e-commerce website + 15 physical stores: €20M annual revenue
+Pain Point (CMO): “Our teams spend more time building reports than actually analyzing the data.”
+
+Although the company was already using Power BI, only 12% of employees were actively using it, mainly due to:
+- The complexity of the tool (required training).
+- Static reports offering limited actionable insights.
+- No mobile access to dashboards.
+
+The CMO and leadership team needed a solution that would provide clear, real-time insights across both e-commerce and physical sales, while being accessible to non-technical users.
+**Objectives**
+
+- Reduce data analysis time by 50%
+- Make key insights accessible without technical skills
+- Unify the reporting across online and offline channels
 
 
+## Solution
+To address the client’s challenges, I designed a SaaS-based analytics solution centered around a streamlined and modular Power BI experience, tailored for both strategic leaders and operational teams.
+
+The solution focused on three key dashboards, each designed with simplicity, clarity, and actionability in mind:
 I designed a SaaS solution concept with a series of dashboards tailored to their needs, including:
 - A Global Dashboard: with key business metrics such as total sales average basket, conversion rate, active customers, sales evolution, location sales.
 - A Campaign Dashboard: showing campaign performance over time, comparisons between campaigns, active customers, conversion rate, and an overview of all the previous campaigns of the year.
@@ -130,3 +147,5 @@ The dark mode version has exactly the same features as the light version.
 The mobile/responsive version will arrive at a later stage as following the company request, it will be used for quick check of data, but most of the monitoring will be done on the desktop version. Nonetheless, the app contains the exact same features and view as the desktop version. The app would also contain a dark mode version.
 
 
+## File included
+Design Saas analytics retail : File gathering all of the designs and mockup.
