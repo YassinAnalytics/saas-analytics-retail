@@ -37,8 +37,10 @@ The MVP (Minimum Viable Product) includes a desktop version only, with future de
 
 
 ## Roadmap (Phased Approach)
-**Phase 1 – MVP **
+**Phase 1 – MVP**
+
 Goal :  to Deliver a working desktop prototype with core dashboards that the teams can use right away as the needs is urgent.
+
 - Define key KPIs with stakeholders
 - Collect and clean the necessary data
 - Build Power BI dashboards: Global, Campaigns, Sales
@@ -46,20 +48,26 @@ Goal :  to Deliver a working desktop prototype with core dashboards that the tea
 - Get initial feedback from users
 - Which and how data to connect
 
-**Phase 2 – Iteration & Mobile Version **
+**Phase 2 – Iteration & Mobile Version**
+
 Goal: Improve based on feedback and add mobile version
+
 - Improve UX and visuals of dashboards and dark mode
 - Optimize performance
 - Build mobile-compatible views (responsive app)
 
 
-**Phase 3 – AI Integration & Automation **
+**Phase 3 – AI Integration & Automation**
+
 Goal: Add intelligent recommendations and automation
+
 - Develop rules or ML-based suggestions (e.g. stock alerts, product focus)
 - Integrate performance alerts (low stock)
 
 **Phase 4 – SaaS Productization (Optional – future vision)**
+
 Goal: Turn the internal tool into a scalable SaaS offer
+
 - Design multi-tenant infrastructure
 - Add user authentication, roles & permissions
 - Create onboarding flows and dashboard templates
