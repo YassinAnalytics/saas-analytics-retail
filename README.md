@@ -1,67 +1,71 @@
-# saas-analytics-retail
+# Saas Analytics Retail
 Custom analytics dashboard for omnichannel retailers (Power BI alternative)
 
 
 
-Context :
+## Context
 I was contacted by a the CMO of a company that runs both an e-commerce website and physical retail stores. They were already using Power BI but only in a limited way and most employees don’t have the time or knowledge to use It effectively. The leadership team needs better visibility, insights, understand and leverage their data.
+
+
 I designed a SaaS solution concept with a series of dashboards tailored to their needs, including:
-•	A Global Dashboard: with key business metrics such as total sales average basket, conversion rate, active customers, sales evolution, location sales
-•	A Campaign Dashboard: showing campaign performance over time, comparisons between campaigns, active customers, conversion rate, and an overview of all the previous campaigns of the year
-•	A Sales Dashboard: focusing on sales trends by product, which product, how many issues reported, number of returns, the stock states
-•	A customization part, with a dark mode, colored AI proposed for the reporting, and possibility to apply all AI recommendations at once
-•	An export section, where can be chosen how the export shall be done (PDF, email), which section include and possibility to write a message
+- A Global Dashboard: with key business metrics such as total sales average basket, conversion rate, active customers, sales evolution, location sales
+- A Campaign Dashboard: showing campaign performance over time, comparisons between campaigns, active customers, conversion rate, and an overview of all the previous campaigns of the year
+- A Sales Dashboard: focusing on sales trends by product, which product, how many issues reported, number of returns, the stock states
+- A customization part, with a dark mode, colored AI proposed for the reporting, and possibility to apply all AI recommendations at once
+- An export section, where can be chosen how the export shall be done (PDF, email), which section include and possibility to write a message
+
+
 The MVP (Minimum Viable Product) includes a desktop version only, with future developments planned:
-•	A mobile-friendly version
-•	A PDF export feature with customizable comments
-•	AI-powered insights to suggest:
-o	Smart restocking decisions
-o	Alerts on underperforming products
-o	Personalized recommendations for future campaigns
-•	A customization part
+- A mobile-friendly version
+- A PDF export feature with customizable comments
+- AI-powered insights to suggest:
+ - Smart restocking decisions
+ - Alerts on underperforming products
+ - Personalized recommendations for future campaigns
+ - A customization part
 
 
 
 
 
 
-Here is the schema of the Saas.
+## Saas Schema
  ![image](https://github.com/user-attachments/assets/6b9932b0-f641-4c57-989d-c984943ab49b)
 
 
 
 
 
-Roadmap (Phased Approach)
-Phase 1 – MVP 
+## Roadmap (Phased Approach)
+**Phase 1 – MVP **
 Goal :  to Deliver a working desktop prototype with core dashboards that the teams can use right away as the needs is urgent.
-•	Define key KPIs with stakeholders
-•	Collect and clean the necessary data
-•	Build Power BI dashboards: Global, Campaigns, Sales
-•	Deploy a basic desktop version (internal use only)
-•	Get initial feedback from users
-•	Which and how data to connect
+- Define key KPIs with stakeholders
+- Collect and clean the necessary data
+- Build Power BI dashboards: Global, Campaigns, Sales
+- Deploy a basic desktop version (internal use only)
+- Get initial feedback from users
+- Which and how data to connect
 
-Phase 2 – Iteration & Mobile Version 
+**Phase 2 – Iteration & Mobile Version **
 Goal: Improve based on feedback and add mobile version
-•	Improve UX and visuals of dashboards and dark mode
-•	Optimize performance 
-•	Build mobile-compatible views (responsive app)
+- Improve UX and visuals of dashboards and dark mode
+- Optimize performance
+- Build mobile-compatible views (responsive app)
 
 
-Phase 3 – AI Integration & Automation 
+**Phase 3 – AI Integration & Automation **
 Goal: Add intelligent recommendations and automation
-•	Develop rules or ML-based suggestions (e.g. stock alerts, product focus)
-•	Integrate performance alerts (low stock)
+- Develop rules or ML-based suggestions (e.g. stock alerts, product focus)
+- Integrate performance alerts (low stock)
 
-Phase 4 – SaaS Productization (Optional – future vision)
+**Phase 4 – SaaS Productization (Optional – future vision)**
 Goal: Turn the internal tool into a scalable SaaS offer
-•	Design multi-tenant infrastructure
-•	Add user authentication, roles & permissions
-•	Create onboarding flows and dashboard templates
-•	Automate export and reporting
-•	Enable real-time or scheduled refresh
-•	Launch a paid version or offer it as a service
+- Design multi-tenant infrastructure
+- Add user authentication, roles & permissions
+- Create onboarding flows and dashboard templates
+- Automate export and reporting
+- Enable real-time or scheduled refresh
+- Launch a paid version or offer it as a service
 
 With the go-live of the MVP, the analysis time is expected to be reduced by 35%, then once the AI tools released, it’s expected to be reduced by 50%. And a 100% rate adoption by the employees.
 The roadmap is structured in 4 phases, from MVP definition to SaaS productization. It includes desktop, mobile and AI developments:
@@ -73,20 +77,21 @@ The roadmap is structured in 4 phases, from MVP definition to SaaS productizatio
 
 This roadmap outlines the evolution of the SaaS solution from MVP definition to productization. It is structured in 4 phases across 3 main components: Desktop, Mobile, and AI.
 Each color corresponds to a specific team involved, as shown in the legend.
-•	Phase 1 (Q1): MVP scope definition, core dashboard development, QA, and first go-live (desktop).
-•	Phase 2 (Q2): Mobile development, UI/UX improvements (including dark mode), and mobile release.
-•	Phase 3 (Q3): AI module development, integration of rules and alerts, and AI QA/go-live.
-•	Phase 4 (Q4): SaaS productization with infrastructure setup and multi-client readiness.
+- Phase 1 (Q1): MVP scope definition, core dashboard development, QA, and first go-live (desktop).
+- Phase 2 (Q2): Mobile development, UI/UX improvements (including dark mode), and mobile release.
+- Phase 3 (Q3): AI module development, integration of rules and alerts, and AI QA/go-live.
+- Phase 4 (Q4): SaaS productization with infrastructure setup and multi-client readiness.
 Each milestone was prioritized based on urgency, business value, and technical feasibility — ensuring fast time-to-value, scalability, and strong user adoption from the very first phase.
 
 
 
 
 
-Design of each page
+## Design of each page
 ![image](https://github.com/user-attachments/assets/9989a98d-4cd7-4c7b-affe-41662abbf4fe)
 
- 
+
+
 The first page shows an overview, in few seconds, all the main data are available. A panel of colors is also used to get the attention about some metrics that has been decided at are used as alert point; In this page, we have an overview of the global performance of the company, following the dates applied.
 
  
