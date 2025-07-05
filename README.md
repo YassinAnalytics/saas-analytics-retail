@@ -4,8 +4,8 @@ Custom analytics dashboard for omnichannel retailers (Power BI alternative).
 
 
 ## Context
-Client: Mid-sized retail group – e-commerce website + 15 physical stores: €20M annual revenue
-Pain Point (CMO): “Our teams spend more time building reports than actually analyzing the data.”
+Client: Mid-sized retail group – e-commerce website + 15 physical stores: €20M annual revenue.
+Pain Point (CMO): “Our teams spend more time building reports than actually analyzing the data”.
 
 Although the company was already using Power BI, only 12% of employees were actively using it, mainly due to:
 - The complexity of the tool (required training).
