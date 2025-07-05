@@ -148,4 +148,4 @@ The mobile/responsive version will arrive at a later stage as following the comp
 
 
 ## File included
-Design Saas analytics retail : File gathering all of the designs and mockup.
+DesignSaasanalyticsretail.pdf : PDF file gathering all of the designs and mockup.
