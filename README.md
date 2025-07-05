@@ -1,5 +1,5 @@
 # Saas Analytics Retail
-Custom analytics dashboard for omnichannel retailers (Power BI alternative)
+Custom analytics dashboard for omnichannel retailers (Power BI alternative).
 
 
 
