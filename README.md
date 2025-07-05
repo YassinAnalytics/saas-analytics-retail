@@ -125,21 +125,26 @@ The first page shows an overview, in few seconds, all the main data are availabl
 
 This page is focused on the campaigns, where it’s easy to see the global performance of the campaigns. Knowing that the tags of the campaigns have been set up previously, by clicking on one campaign, the metrics will be updated automatically. 
 
+
  ![image](https://github.com/user-attachments/assets/eaeb5d95-3513-4ec7-8890-c09f531e146e)
 
 This part is about the products and is meant for the product overview for the logistics and supply chains team. From it they can monitor all the deliveries, stock filling by product, while getting updated information from the shops and warehouse thanks for the stock management system of the company.
+
 
  ![image](https://github.com/user-attachments/assets/a57999a2-1ec6-44af-b8d1-a7cd344f4b30)
 
 This part is not in the MVP but will be used to configure the app and the dashboard, following the color panel of the company and the possibility to let the AI recommend and update everything following the best case.
 
+
  ![image](https://github.com/user-attachments/assets/96f93f1e-dd7a-408d-b610-1f1b6c80a7b4)
 
 This part will allow the export into a PDF report or send by email. The user can select which part of the data wanted for the export. A message can be written before the report is generated.
 
+
  ![image](https://github.com/user-attachments/assets/4c2de865-bbfd-45aa-ba3f-333f3c884923)
 
 The dark mode version has exactly the same features as the light version.
+
  
 ![image](https://github.com/user-attachments/assets/e2a2f6b7-1da9-4fbc-88bb-aa5739171768)
 
